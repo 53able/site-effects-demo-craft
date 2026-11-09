@@ -1,4 +1,4 @@
 interface:
-  display_name: "既存サイトの演出とデモ制作"
-  short_description: "元サイトの個性を保ち、描く過程が見える演出とデモ動画を仕上げる"
-  default_prompt: "$site-effects-demo-craft を使い、既存サイトの見た目を保って演出を改善し、その過程が見えるデモ動画を制作・検証してください。"
+  display_name: "Swarm演出の導入とデモ制作"
+  short_description: "手元のサイトにSwarmとcanvas-uiを組み込み、動作とデモを確かめる"
+  default_prompt: "$site-effects-demo-craft を使い、手元のサイトにSwarm Buildとcanvas-uiを組み込み、元のデザインを保ってローカル起動・検証してください。"
